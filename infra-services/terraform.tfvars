@@ -75,7 +75,7 @@ enable_vpa               = false
 
 # rds
 rds_identifier = "my-rds"
-rds_username = "ppg2025"
+rds_username = "admin"
 rds_instance_type = "db.t3.small"
 rds_maintenance_window = "Mon:00:00-Mon:03:00"
 rds_backup_window      = "03:00-06:00"
